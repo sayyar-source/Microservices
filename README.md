@@ -4,3 +4,4 @@ in this project, I have some microservices which implemented e-commerce services
 Also Implemented Centralized Distributed Logging with  Elasticsearch, Logstash, Kibana, and SeriLog for Microservices.
 I used Grpc Service for inter-service sync communication also I used MassTransit and RabbitMQ for making queues and
 async Microservices Communication with RabbitMQ Message-Broker Service.
+I Implemented Microservices with DDD, CQRS, and Clean Architecture.
